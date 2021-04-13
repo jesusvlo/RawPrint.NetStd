@@ -3,7 +3,7 @@ RawPrint.Stream
 
 .Net Core library to send stream directly to a Windows printer bypassing the printer driver.
 
-Send PostScript, PCL or other stream directly to a printer.
+Send PostScript, PCL or other binary stream directly to a printer.
 
 Requires .Net Core runtime.
 

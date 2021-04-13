@@ -14,7 +14,7 @@ Usage:
         // Create an instance of the Printer
         IPrinter printer = new Printer();
     
-        // Print the file
+        // Print the stream
         printer.PrintRawStream(PrinterName, Stream, JobName);
 
 Installation:

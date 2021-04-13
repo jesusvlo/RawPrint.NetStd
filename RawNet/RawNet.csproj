@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="Extensions\" />
     <Folder Include="Printer\" />
+    <Folder Include="Defenitions\" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-RawPrint.NetStd
+RawPrint.NetStd (Version NetStd 2.0)
 ===============
 
 .Net Standard library to send files or binary stream directly to a Windows printer bypassing the printer driver.

@@ -19,7 +19,7 @@ Installation:
 
 To install Raw Print, run the following command in the [Package Manager Console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console)
 
-	PM> Install-Package RawPrint.NetStd
+	PM> Install-Package RawPrint.NetStd-2.0
 
 *2021-04-13 Version 0.1.0*
 

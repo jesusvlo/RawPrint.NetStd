@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Extensions\" />
-    <Folder Include="Defenitions\" />
+    <Folder Include="Definitions\" />
     <Folder Include="Printer\Safe\" />
   </ItemGroup>
 

@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Extensions\" />
-    <Folder Include="Printer\" />
     <Folder Include="Defenitions\" />
+    <Folder Include="Printer\Safe\" />
   </ItemGroup>
 
 </Project>

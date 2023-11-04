@@ -4,12 +4,30 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>rawnet</PackageId>
+    <Title>RawNet</Title>
+    <Authors>hhypest</Authors>
+    <Company>hhNET</Company>
+    <Product>RawNet</Product>
+    <Description>Форк проекта RawPrinter</Description>
+    <PackageProjectUrl>https://github.com/hhypest/RawNet</PackageProjectUrl>
+    <PackageIcon>3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png</PackageIcon>
+    <RepositoryUrl>https://github.com/hhypest/RawNet</RepositoryUrl>
+    <PackageTags>print</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Extensions\" />
     <Folder Include="Definitions\" />
     <Folder Include="Printer\Safe\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\ico\office\icons\3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

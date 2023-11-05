@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "RawNet/1.0.1": {
+      "RawNet/1.0.2": {
         "runtime": {
           "RawNet.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "RawNet/1.0.1": {
+    "RawNet/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

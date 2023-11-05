@@ -82,6 +82,14 @@ public sealed class PrinterAdapter : IPrinterAdapter
         PrintRawStream(printer, stream, documentName, paused);
     }
 
+    public void PrintRawFile(string printer, FileInfo file, bool paused = false)
+    {
+        if (file is null)
+            throw new ArgumentNullException(nameof(file), "Файл не существует!");
+
+        PrintRawFile(printer, file.FullName, file.Name, paused);
+    }
+
     public void PrintRawStream(string printer, Stream stream, string documentName, bool paused = false)
     {
         PrintRawStream(printer, stream, documentName, paused, 1);

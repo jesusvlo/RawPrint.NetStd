@@ -23,9 +23,7 @@ public sealed class Printer : IPrinter
         var id = printer.StartDocPrinter(di1);
 
         if (paused)
-        {
             NativeUtils.SetJob(printer.DangerousGetHandle(), id, 0, IntPtr.Zero, (int)JobControl.Pause);
-        }
 
         OnJobCreated?.Invoke(this, new JobCreatedEventArgs { Id = id, PrinterName = printerName });
 

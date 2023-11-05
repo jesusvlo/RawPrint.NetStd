@@ -8,6 +8,4 @@ RawNet
 Пример:
 
     IPrinterAdapter printer = new PrinterAdapter();
-
-    // Print the file
     printer.PrintRawFile(PrinterName, Filepath, Filename);

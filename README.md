@@ -1,16 +1,11 @@
-RawPrint.NetStd
+RawNet
 ===============
 
-.Net Standard library to send files or binary stream directly to a Windows printer bypassing the printer driver.
+Библиотека для отправки файла или двоичного потока непосредственно на принтер, в обход драйвера.
 
-Send PostScript, PCL files or other binary stream directly to a printer.
+Отправляйте PostScript, PCL, PDF и другие файлы на принтер.
 
-Usage:
+Пример:
 
-    using RawPrint;
-
-    // Create an instance of the Printer
     IPrinter printer = new Printer();
-
-    // Print the file
     printer.PrintRawFile(PrinterName, Filepath, Filename);

@@ -2,7 +2,7 @@
 
 namespace RawNet.Printer;
 
-public interface IPrinter
+public interface IPrinterAdapter
 {
     public void PrintRawFile(string printer, string path, string documentName, bool paused = false);
 

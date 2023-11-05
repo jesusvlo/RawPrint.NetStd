@@ -6,5 +6,3 @@ public sealed class JobCreatedEventArgs : EventArgs
 
     public string PrinterName { get; set; } = null!;
 }
-
-public delegate void JobCreatedHandler(object sender, JobCreatedEventArgs e);

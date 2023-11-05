@@ -3,7 +3,7 @@ using RawNet.Printer.Safe;
 
 namespace RawNet.Printer;
 
-public sealed class Printer : IPrinter
+public sealed class PrinterAdapter : IPrinterAdapter
 {
     private static bool IsXPSDriver(SafePrinter printer)
     {

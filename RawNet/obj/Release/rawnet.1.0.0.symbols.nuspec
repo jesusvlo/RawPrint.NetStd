@@ -18,9 +18,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\py\C#\RawNet\RawNet\bin\Release\net7.0\RawNet.dll" target="lib\net7.0\RawNet.dll" />
-    <file src="D:\py\ico\office\icons\3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png" target="\3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png" />
-    <file src="D:\py\C#\RawNet\LICENSE" target="\LICENSE" />
-    <file src="D:\py\C#\RawNet\README.md" target="\README.md" />
+    <file src="D:\py\C#\RawNet\RawNet\bin\Release\net7.0\RawNet.pdb" target="lib\net7.0\RawNet.pdb" />
   </files>
 </package>

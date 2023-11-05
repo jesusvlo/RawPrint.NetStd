@@ -5,6 +5,8 @@
     <version>1.0.0</version>
     <title>RawNet</title>
     <authors>hhypest</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <icon>3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png</icon>
     <projectUrl>https://github.com/hhypest/RawNet</projectUrl>
     <description>Форк проекта RawPrinter</description>
@@ -17,5 +19,6 @@
   <files>
     <file src="D:\py\C#\RawNet\RawNet\bin\Release\net7.0\RawNet.dll" target="lib\net7.0\RawNet.dll" />
     <file src="D:\py\ico\office\icons\3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png" target="\3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png" />
+    <file src="D:\py\C#\RawNet\LICENSE" target="\LICENSE" />
   </files>
 </package>

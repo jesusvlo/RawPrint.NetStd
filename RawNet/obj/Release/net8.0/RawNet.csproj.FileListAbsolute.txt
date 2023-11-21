@@ -1,0 +1,12 @@
+D:\py\C#\RawNet\RawNet\bin\Release\net8.0\RawNet.deps.json
+D:\py\C#\RawNet\RawNet\bin\Release\net8.0\RawNet.dll
+D:\py\C#\RawNet\RawNet\bin\Release\net8.0\RawNet.pdb
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\RawNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\RawNet.AssemblyInfoInputs.cache
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\RawNet.AssemblyInfo.cs
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\RawNet.csproj.CoreCompileInputs.cache
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\RawNet.sourcelink.json
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\RawNet.dll
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\refint\RawNet.dll
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\RawNet.pdb
+D:\py\C#\RawNet\RawNet\obj\Release\net8.0\ref\RawNet.dll

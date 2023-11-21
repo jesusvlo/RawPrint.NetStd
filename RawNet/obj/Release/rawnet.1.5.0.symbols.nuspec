@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>rawnet</id>
-    <version>1.0.1</version>
+    <version>1.5.0</version>
     <title>RawNet</title>
     <authors>hhypest</authors>
     <license type="file">LICENSE</license>
@@ -12,15 +12,12 @@
     <projectUrl>https://github.com/hhypest/RawNet</projectUrl>
     <description>Форк проекта RawPrinter</description>
     <tags>print</tags>
-    <repository url="https://github.com/hhypest/RawNet" />
+    <repository type="git" url="https://github.com/hhypest/RawNet" commit="63e19575c3e844191da7b1697a9ec335ecc5e413" />
     <dependencies>
-      <group targetFramework="net7.0" />
+      <group targetFramework="net8.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\py\C#\RawNet\RawNet\bin\Release\net7.0\RawNet.dll" target="lib\net7.0\RawNet.dll" />
-    <file src="D:\py\ico\office\icons\3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png" target="\3592820_demolish_office_ruin_paper shredder_shred_destroy_document.png" />
-    <file src="D:\py\C#\RawNet\LICENSE" target="\LICENSE" />
-    <file src="D:\py\C#\RawNet\README.md" target="\README.md" />
+    <file src="D:\py\C#\RawNet\RawNet\bin\Release\net8.0\RawNet.pdb" target="lib\net8.0\RawNet.pdb" />
   </files>
 </package>
